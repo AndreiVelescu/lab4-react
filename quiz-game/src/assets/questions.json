@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "category": "Istorie",
+    "difficulty": "Mediu",
+    "question": "Cine a fost primul rege al României?",
+    "options": ["Carol I", "Ferdinand", "Mihai I", "Alexandru Ioan Cuza"],
+    "answer": "Carol I"
+  },
+  {
+    "id": 2,
+    "category": "Istorie",
+    "difficulty": "Ușor",
+    "question": "În ce an a avut loc Unirea Principatelor Române?",
+    "options": ["1859", "1848", "1918", "1821"],
+    "answer": "1859"
+  },
+  {
+    "id": 3,
+    "category": "Istorie",
+    "difficulty": "Mediu",
+    "question": "Cine a scris „Deșteaptă-te, române!”?",
+    "options": [
+      "Andrei Mureșanu",
+      "Mihai Eminescu",
+      "George Coșbuc",
+      "Ion Creangă"
+    ],
+    "answer": "Andrei Mureșanu"
+  },
+  {
+    "id": 4,
+    "category": "Istorie",
+    "difficulty": "Greu",
+    "question": "Cine a fost domnitorul Moldovei în timpul Bătăliei de la Vaslui (1475)?",
+    "options": [
+      "Ștefan cel Mare",
+      "Vlad Țepeș",
+      "Alexandru cel Bun",
+      "Petru Rareș"
+    ],
+    "answer": "Ștefan cel Mare"
+  },
+  {
+    "id": 5,
+    "category": "Istorie",
+    "difficulty": "Ușor",
+    "question": "Care este anul în care România a intrat în Uniunea Europeană?",
+    "options": ["2007", "2004", "2010", "1999"],
+    "answer": "2007"
+  },
+  {
+    "id": 6,
+    "category": "Istorie",
+    "difficulty": "Mediu",
+    "question": "Cine a fost conducătorul Revoluției de la 1848 în Țara Românească?",
+    "options": [
+      "Nicolae Bălcescu",
+      "Avram Iancu",
+      "Tudor Vladimirescu",
+      "Ion Heliade Rădulescu"
+    ],
+    "answer": "Nicolae Bălcescu"
+  },
+  {
+    "id": 7,
+    "category": "Istorie",
+    "difficulty": "Greu",
+    "question": "În ce an a avut loc Războiul de Independență al României?",
+    "options": ["1877", "1848", "1916", "1859"],
+    "answer": "1877"
+  },
+
+  {
+    "id": 8,
+    "category": "Geografie",
+    "difficulty": "Ușor",
+    "question": "Care este cel mai lung fluviu din lume?",
+    "options": ["Amazon", "Nil", "Yangtze", "Mississippi"],
+    "answer": "Amazon"
+  },
+  {
+    "id": 9,
+    "category": "Geografie",
+    "difficulty": "Mediu",
+    "question": "Care este capitala Australiei?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "id": 10,
+    "category": "Știință",
+    "difficulty": "Ușor",
+    "question": "Ce planetă este cunoscută drept „Planeta Roșie”?",
+    "options": ["Marte", "Venus", "Jupiter", "Saturn"],
+    "answer": "Marte"
+  },
+  {
+    "id": 11,
+    "category": "Știință",
+    "difficulty": "Mediu",
+    "question": "Care este simbolul chimic pentru aur?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "id": 12,
+    "category": "Literatură",
+    "difficulty": "Greu",
+    "question": "Cine a scris romanul „Război și pace”?",
+    "options": ["Lev Tolstoi", "Dostoievski", "Cehov", "Gogol"],
+    "answer": "Lev Tolstoi"
+  },
+  {
+    "id": 13,
+    "category": "Literatură",
+    "difficulty": "Ușor",
+    "question": "Cine este autorul poeziei „Luceafărul”?",
+    "options": [
+      "Mihai Eminescu",
+      "George Coșbuc",
+      "Ion Creangă",
+      "Tudor Arghezi"
+    ],
+    "answer": "Mihai Eminescu"
+  },
+  {
+    "id": 14,
+    "category": "Sport",
+    "difficulty": "Mediu",
+    "question": "Câte jucătoare sunt pe teren într-un meci de volei (pentru o echipă)?",
+    "options": ["6", "5", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 15,
+    "category": "Sport",
+    "difficulty": "Greu",
+    "question": "Cine a câștigat Balonul de Aur în 1998?",
+    "options": ["Zinedine Zidane", "Ronaldo", "Luis Figo", "Michael Owen"],
+    "answer": "Zinedine Zidane"
+  }
+]
